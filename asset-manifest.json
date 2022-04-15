@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/drogaria-colorado/static/css/main.552e149d.css",
-    "main.js": "/drogaria-colorado/static/js/main.cd93bcca.js",
+    "main.js": "/drogaria-colorado/static/js/main.d167605d.js",
     "static/js/787.deb947e2.chunk.js": "/drogaria-colorado/static/js/787.deb947e2.chunk.js",
     "index.html": "/drogaria-colorado/index.html",
     "main.552e149d.css.map": "/drogaria-colorado/static/css/main.552e149d.css.map",
-    "main.cd93bcca.js.map": "/drogaria-colorado/static/js/main.cd93bcca.js.map",
+    "main.d167605d.js.map": "/drogaria-colorado/static/js/main.d167605d.js.map",
     "787.deb947e2.chunk.js.map": "/drogaria-colorado/static/js/787.deb947e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.552e149d.css",
-    "static/js/main.cd93bcca.js"
+    "static/js/main.d167605d.js"
   ]
 }
